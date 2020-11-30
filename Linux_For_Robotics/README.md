@@ -11,7 +11,7 @@ This course is about Linux. Linux is a free, open source operating system, which
 ---
 
 ## linux_essentials
-<a href=#linux_essentials></a>
+
 
 # Linux essential
 
@@ -22,6 +22,11 @@ This course is about Linux. Linux is a free, open source operating system, which
 | `pwd` | check the current path you are |
 |`cd` .. | move back to a folder |
 | `cd ~/folder_name` | ~ indicates the home folder |
+
+```bash
+user:~$ pwd
+/home/user
+```
 
 <pre class="bash" style="font-family:monospace;"><span style="color: #666666;">user:~$ </span><span style="color: #c20cb9; font-weight: bold;">pwd</span>
 <span style="color: #000000; font-weight: bold;">/</span>home<span style="color: #000000; font-weight: bold;">/</span>user</pre>
