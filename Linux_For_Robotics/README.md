@@ -28,8 +28,7 @@ user:~$ pwd
 /home/user
 ```
 
-<pre class="bash" style="font-family:monospace;"><span style="color: #666666;">user:~$ </span><span style="color: #c20cb9; font-weight: bold;">pwd</span>
-<span style="color: #000000; font-weight: bold;">/</span>home<span style="color: #000000; font-weight: bold;">/</span>user</pre>
+
 
 | Command       | Meaning       |
 | ------------- |:-------------:|
@@ -37,6 +36,8 @@ user:~$ pwd
 | `ls -la`| is used for seeing all the contents of a hidden folder or hidden file that filesystem utilities (like ls) do not display |
 | `cd /home/user` | this will take you to your HOME folder |
 | `mkdir` | It allows you to create a new directory |
+
+
 
 <pre class="bash" style="font-family:monospace;"><span style="color: #666666;">user:~$ </span><span style="color: #c20cb9; font-weight: bold;">ls</span>
 catkin_ws
