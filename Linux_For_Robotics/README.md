@@ -28,6 +28,7 @@ user:~$ pwd
 /home/user
 ```
 
+![](blob:https://carbon.now.sh/08fe9ec0-049f-4327-9595-16725862fee4)
 
 
 | Command       | Meaning       |
